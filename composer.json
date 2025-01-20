@@ -1,7 +1,7 @@
 {
-    "name": "laravel-notification-channels/onesignal",
+    "name": "cceo-developer/onesignal",
     "description": "OneSignal Notifications driver",
-    "homepage": "https://github.com/laravel-notification-channels/onesignal",
+    "homepage": "https://github.com/cceo-developer/onesignal",
     "license": "MIT",
     "authors": [
         {
